@@ -2,5 +2,5 @@
 
 #Team Members
 * Athul P Saji
-* Abhijith R
+* Abijith R
 * Don Mani
