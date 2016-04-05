@@ -5,7 +5,7 @@
 * Abijith R
 * Don Mani
 
-Accuracy for test  1  :  1.0
+Accuracy for test  1  :  1.0 \n
 Accuracy for test  2  :  0.960784313725
 Accuracy for test  3  :  0.980392156863
 Accuracy for test  4  :  1.0
